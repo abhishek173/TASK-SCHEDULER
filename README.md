@@ -3,8 +3,7 @@ Django Application, where User can schedule their tasks
 
 ## prerequisite 
 Ensure Your system must have python3 and Django5 installed .
-if not, Run the below command to Install
-  pip install python 
+once python is install, To install Django :-
   pip install django
 
 ## To clone the Project 
