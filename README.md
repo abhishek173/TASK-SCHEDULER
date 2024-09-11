@@ -10,4 +10,13 @@ if not run the below command to Install
   pip install django
 '''
 
+git clone <>
 
+## Move to Project directory
+cd TASK-SCHEDULER/TaskScheduler/
+
+## To run the server
+python manage.py runserver
+
+## To Browse the Application
+http://localhost:8000
